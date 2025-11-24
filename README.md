@@ -1,4 +1,4 @@
-# Shrenika Rajpoot
+# Introduction
 About Myself
 ## Hi there! 👋
 
