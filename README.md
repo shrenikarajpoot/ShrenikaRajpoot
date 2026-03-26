@@ -6,7 +6,7 @@ I'm **Shrenika Rajpoot**, a passionate developer with a keen interest in explori
 
 ## About Me
 
-I'm Shrenika Rajpoot, currently exploring the vast world of programming and technology. Although I don't have a specific location or company listed, I'm eager to learn and grow in the tech community.
+I'm Shrenika Rajpoot, currently in my 1st year persuing my B.tech in Computer Science Engineering (Specialisation in AI & ML) and exploring the vast world of programming and technology. Although I don't have a specific location or company listed, I'm eager to learn and grow in the tech community.
 
 ## Skills & Technologies
 
